@@ -1,4 +1,4 @@
-package com.iqbal.variableanddatatype;
+package com.iqbal.variable.datatype;
 
 public class table3_1 {
     public static void main(String[] args) {
