@@ -1,6 +1,6 @@
 package com.iqbal.variable.datatype;
 
-public class Table3Sub3 {
+public class NumericVariable {
     public static void main(String[] args) {
         byte byteNumber = 77;
         short shortNumber = 777;

@@ -1,10 +1,8 @@
 package com.iqbal.variable.datatype;
 
-public class Table3Sub2 {
+public class CallingAVariable {
     public static void main(String[] args) {
-        int number = 67;
-        number = 167;
-
+        int number = 2;
         System.out.println(number);
     }
 }

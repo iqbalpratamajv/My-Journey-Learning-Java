@@ -1,6 +1,6 @@
 package com.iqbal.variable.datatype;
 
-public class StudentData {
+public class CallingAStudentData {
     public static void main(String[] args) {
         String name = "Iqbal Dwi Pratama";
         String nim = "225140293";

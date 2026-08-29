@@ -1,6 +1,6 @@
 package com.iqbal.variable.datatype;
 
-public class Table3Sub5 {
+public class NumericNumberDouble {
     public static void main(String[] args) {
         double numberOne = 1038;
         double numberTwo = 1743.223;

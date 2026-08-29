@@ -2,7 +2,7 @@ package com.iqbal.input.output;
 
 import java.util.Scanner;
 
-public class Table4Sub2 {
+public class InputANumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package com.iqbal.variable.datatype;
 
-public class Table3Sub6 {
+public class CharacterVariable {
     public static void main(String[] args) {
         char characterOne = 'A';
         char characterTwo = '\\';
