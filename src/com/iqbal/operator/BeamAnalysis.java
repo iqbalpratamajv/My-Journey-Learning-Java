@@ -1,4 +1,4 @@
-package com.iqbal;
+package com.iqbal.operator;
 
 import java.util.Scanner;
 
