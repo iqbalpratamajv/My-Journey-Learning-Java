@@ -33,8 +33,12 @@ public class SimpleCalculation {
                 System.out.println("Hasilnya " + multiply);
                 break;
             case 4:
-                int divide = numberOne / numberTwo;
-                System.out.println("Hasilnya " + divide);
+                double divide = (double) numberOne / numberTwo;
+                if (divide != 0) {
+                    System.out.println("Hasilnya " + divide);
+                } else {
+                    System.out.println("Tidak terdefinisi");
+                }
                 break;
             default:
                 System.out.println("Tidak ada menu pilihan");
