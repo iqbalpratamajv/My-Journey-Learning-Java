@@ -17,7 +17,9 @@ public class StundentPersonalDetails {
         System.out.println();
         System.out.println("Selamat datang");
         System.out.println("Nama: " + nameStudent);
-        System.out.println("NIM: " + roomStudent);
+        System.out.println("NIM: " + nimStudent);
         System.out.println("Kelas: " + roomStudent);
+
+        input.close();
     }
 }

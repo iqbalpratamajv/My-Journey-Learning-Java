@@ -21,5 +21,7 @@ public class Calculation {
         System.out.println("Hasil pengurangan: " + subtraction);
         System.out.println("Hasil perkalian: " + multiplication);
         System.out.println("Hasil pembagian: " + division);
+
+        input.close();
     }
 }

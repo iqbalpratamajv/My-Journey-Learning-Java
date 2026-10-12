@@ -16,5 +16,7 @@ public class PredicateDetermination {
         } else {
             System.out.println("C");
         }
+
+        input.close();
     }
 }

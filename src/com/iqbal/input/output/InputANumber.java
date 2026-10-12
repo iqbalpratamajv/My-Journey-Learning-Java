@@ -13,5 +13,7 @@ public class InputANumber {
         int numberTwo = input.nextInt();
 
         System.out.println("Bilangan pertama: " + numberOne + "\nBilangan kedua: " + numberTwo);
+
+        input.close();
     }
 }

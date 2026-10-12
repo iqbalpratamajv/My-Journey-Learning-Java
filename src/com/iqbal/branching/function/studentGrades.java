@@ -16,5 +16,7 @@ public class studentGrades {
         } else {
             System.out.println("Anda mendapat nilai C");
         }
+
+        input.close();
     }
 }
