@@ -1,4 +1,4 @@
-package com.iqbal.branching;
+package com.iqbal.branching.function;
 
 public class cekAngkaIf {
     public static void main(String[] args) {
