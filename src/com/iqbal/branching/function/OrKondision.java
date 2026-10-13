@@ -1,4 +1,4 @@
-package com.iqbal.branching;
+package com.iqbal.branching.function;
 
 public class OrKondision {
     public static void main(String[] args) {
